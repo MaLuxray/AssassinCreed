@@ -25,3 +25,11 @@ E:\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard1.3\AssassinCore.My
 E:\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard1.3\AssassinCore.MySql.AssemblyInfo.cs
 E:\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard1.3\AssassinCore.MySql.dll
 E:\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard1.3\AssassinCore.MySql.pdb
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.MySql\bin\Debug\netstandard1.3\AssassinCore.MySql.deps.json
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.MySql\bin\Debug\netstandard1.3\AssassinCore.MySql.dll
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.MySql\bin\Debug\netstandard1.3\AssassinCore.MySql.pdb
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard1.3\AssassinCore.MySql.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard1.3\AssassinCore.MySql.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard1.3\AssassinCore.MySql.AssemblyInfo.cs
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard1.3\AssassinCore.MySql.dll
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard1.3\AssassinCore.MySql.pdb

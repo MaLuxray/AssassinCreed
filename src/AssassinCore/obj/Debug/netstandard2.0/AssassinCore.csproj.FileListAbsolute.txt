@@ -29,3 +29,11 @@ E:\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2.0\AssassinCore.Assembly
 E:\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2.0\AssassinCore.AssemblyInfo.cs
 E:\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2.0\AssassinCore.dll
 E:\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2.0\AssassinCore.pdb
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore\bin\Debug\netstandard2.0\AssassinCore.deps.json
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore\bin\Debug\netstandard2.0\AssassinCore.dll
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore\bin\Debug\netstandard2.0\AssassinCore.pdb
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2.0\AssassinCore.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2.0\AssassinCore.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2.0\AssassinCore.AssemblyInfo.cs
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2.0\AssassinCore.dll
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2.0\AssassinCore.pdb

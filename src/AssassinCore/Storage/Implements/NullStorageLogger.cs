@@ -1,6 +1,6 @@
 ﻿namespace AssassinCore.Storage.Implements
 {
-    public class NullStorageLogger : IStorageLogger
+    internal class NullStorageLogger : IStorageLogger
     {
         public void Write(string message)
         {

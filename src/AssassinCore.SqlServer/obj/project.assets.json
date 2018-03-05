@@ -5882,11 +5882,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\AssassinCreed\\src\\AssassinCore.SqlServer\\AssassinCore.SqlServer.csproj",
+      "projectUniqueName": "F:\\Microsoft Visual Studio\\AssassinCreed\\src\\AssassinCore.SqlServer\\AssassinCore.SqlServer.csproj",
       "projectName": "AssassinCore.SqlServer",
-      "projectPath": "E:\\AssassinCreed\\src\\AssassinCore.SqlServer\\AssassinCore.SqlServer.csproj",
+      "projectPath": "F:\\Microsoft Visual Studio\\AssassinCreed\\src\\AssassinCore.SqlServer\\AssassinCore.SqlServer.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\AssassinCreed\\src\\AssassinCore.SqlServer\\obj\\",
+      "outputPath": "F:\\Microsoft Visual Studio\\AssassinCreed\\src\\AssassinCore.SqlServer\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
