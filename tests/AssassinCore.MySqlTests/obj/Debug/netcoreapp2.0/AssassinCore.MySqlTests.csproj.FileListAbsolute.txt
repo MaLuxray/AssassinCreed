@@ -1,0 +1,13 @@
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\bin\Debug\netcoreapp2.0\AssassinCore.MySqlTests.deps.json
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\bin\Debug\netcoreapp2.0\AssassinCore.MySqlTests.runtimeconfig.json
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\bin\Debug\netcoreapp2.0\AssassinCore.MySqlTests.runtimeconfig.dev.json
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\bin\Debug\netcoreapp2.0\AssassinCore.MySqlTests.dll
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\bin\Debug\netcoreapp2.0\AssassinCore.MySqlTests.pdb
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\obj\Debug\netcoreapp2.0\AssassinCore.MySqlTests.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\obj\Debug\netcoreapp2.0\AssassinCore.MySqlTests.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\obj\Debug\netcoreapp2.0\AssassinCore.MySqlTests.AssemblyInfo.cs
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\obj\Debug\netcoreapp2.0\AssassinCore.MySqlTests.dll
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\obj\Debug\netcoreapp2.0\AssassinCore.MySqlTests.pdb
