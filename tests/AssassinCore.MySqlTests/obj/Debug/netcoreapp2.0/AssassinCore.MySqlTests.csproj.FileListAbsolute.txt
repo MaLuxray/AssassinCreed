@@ -11,4 +11,3 @@ F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\obj\Debug
 F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\obj\Debug\netcoreapp2.0\AssassinCore.MySqlTests.AssemblyInfo.cs
 F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\obj\Debug\netcoreapp2.0\AssassinCore.MySqlTests.dll
 F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\obj\Debug\netcoreapp2.0\AssassinCore.MySqlTests.pdb
-F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.MySqlTests\obj\Debug\netcoreapp2.0\AssassinCore.MySqlTests.csprojResolveAssemblyReference.cache
