@@ -37,3 +37,4 @@ F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2
 F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2.0\AssassinCore.AssemblyInfo.cs
 F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2.0\AssassinCore.dll
 F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2.0\AssassinCore.pdb
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore\obj\Debug\netstandard2.0\AssassinCore.csprojResolveAssemblyReference.cache

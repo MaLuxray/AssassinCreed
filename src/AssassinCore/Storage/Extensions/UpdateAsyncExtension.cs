@@ -145,6 +145,28 @@ namespace AssassinCore.Storage
             return updateStore.UpdateAsync(conn, entityToUpdate, null, whereClause, tr, cancellationToken);
         }
 
+        public static Task UpdateAsync<TKey, TEntity>(this IUpdateStore<TKey, TEntity> updateStore, IStorageDbConnection conn, TEntity entityToUpdate, IEnumerable<Expression<Func<TEntity, object>>> updateFields, WhereClauseResult whereClause)
+            where TKey : IEquatable<TKey>
+            where TEntity : class, IEntity<TKey>
+        {
+            if (updateStore == null)
+            {
+                throw new ArgumentNullException(nameof(updateStore));
+            }
+            return updateStore.UpdateAsync(conn, entityToUpdate, updateFields, whereClause, null, default(CancellationToken));
+        }
+
+        public static Task UpdateAsync<TKey, TEntity>(this IUpdateStore<TKey, TEntity> updateStore, IStorageDbConnection conn, TEntity entityToUpdate, IEnumerable<Expression<Func<TEntity, object>>> updateFields, WhereClauseResult whereClause, CancellationToken cancellationToken)
+            where TKey : IEquatable<TKey>
+            where TEntity : class, IEntity<TKey>
+        {
+            if (updateStore == null)
+            {
+                throw new ArgumentNullException(nameof(updateStore));
+            }
+            return updateStore.UpdateAsync(conn, entityToUpdate, updateFields, whereClause, null, cancellationToken);
+        }
+
         public static Task UpdateAsync<TKey, TEntity>(this IUpdateStore<TKey, TEntity> updateStore, IStorageDbConnection conn, TEntity entityToUpdate, IEnumerable<Expression<Func<TEntity, object>>> updateFields, WhereClauseResult whereClause, IDbTransaction tr)
             where TKey : IEquatable<TKey>
             where TEntity : class, IEntity<TKey>

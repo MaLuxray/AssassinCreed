@@ -33,3 +33,4 @@ F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netsta
 F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard1.3\AssassinCore.MySql.AssemblyInfo.cs
 F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard1.3\AssassinCore.MySql.dll
 F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard1.3\AssassinCore.MySql.pdb
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard1.3\AssassinCore.MySql.csprojResolveAssemblyReference.cache

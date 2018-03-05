@@ -11,3 +11,4 @@ F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.SqlServerTests\obj\D
 F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.SqlServerTests\obj\Debug\netcoreapp2.0\AssassinCore.SqlServerTests.AssemblyInfo.cs
 F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.SqlServerTests\obj\Debug\netcoreapp2.0\AssassinCore.SqlServerTests.dll
 F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.SqlServerTests\obj\Debug\netcoreapp2.0\AssassinCore.SqlServerTests.pdb
+F:\Microsoft Visual Studio\AssassinCreed\tests\AssassinCore.SqlServerTests\obj\Debug\netcoreapp2.0\AssassinCore.SqlServerTests.csprojResolveAssemblyReference.cache

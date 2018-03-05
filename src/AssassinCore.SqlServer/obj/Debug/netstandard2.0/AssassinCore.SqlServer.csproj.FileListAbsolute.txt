@@ -33,3 +33,4 @@ F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\ne
 F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.AssemblyInfo.cs
 F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.dll
 F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.pdb
+F:\Microsoft Visual Studio\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.csprojResolveAssemblyReference.cache
