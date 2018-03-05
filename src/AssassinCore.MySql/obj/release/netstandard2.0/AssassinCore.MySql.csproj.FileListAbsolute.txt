@@ -1,0 +1,8 @@
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\bin\release\netstandard2.0\AssassinCore.MySql.deps.json
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\bin\release\netstandard2.0\AssassinCore.MySql.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\bin\release\netstandard2.0\AssassinCore.MySql.pdb
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\release\netstandard2.0\AssassinCore.MySql.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\release\netstandard2.0\AssassinCore.MySql.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\release\netstandard2.0\AssassinCore.MySql.AssemblyInfo.cs
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\release\netstandard2.0\AssassinCore.MySql.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\release\netstandard2.0\AssassinCore.MySql.pdb

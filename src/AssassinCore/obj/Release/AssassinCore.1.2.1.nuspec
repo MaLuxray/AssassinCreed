@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AssassinCore</id>
+    <version>1.2.1</version>
+    <title>AssassinCore</title>
+    <authors>华丽丽的刀光</authors>
+    <owners>华丽丽的刀光</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Simple extensions for Dapper</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5.2">
+        <dependency id="Dapper" version="1.50.4" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard1.3">
+        <dependency id="NETStandard.Library" version="1.6.1" exclude="Build,Analyzers" />
+        <dependency id="Dapper" version="1.50.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CSharp" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="System.Data.Common" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Dapper" version="1.50.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CSharp" version="4.4.1" exclude="Build,Analyzers" />
+        <dependency id="System.Data.Common" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.5.2" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="F:\Microsoft Visual Studio\AssassinCreed\AssassinCore\bin\release\net452\AssassinCore.dll" target="lib\net452\AssassinCore.dll" />
+    <file src="F:\Microsoft Visual Studio\AssassinCreed\AssassinCore\bin\release\netstandard1.3\AssassinCore.dll" target="lib\netstandard1.3\AssassinCore.dll" />
+    <file src="F:\Microsoft Visual Studio\AssassinCreed\AssassinCore\bin\release\netstandard2.0\AssassinCore.dll" target="lib\netstandard2.0\AssassinCore.dll" />
+  </files>
+</package>

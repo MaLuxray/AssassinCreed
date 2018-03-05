@@ -1,0 +1,9 @@
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\bin\release\net452\AssassinCore.SqlServer.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\bin\release\net452\AssassinCore.SqlServer.pdb
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\bin\release\net452\AssassinCore.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\bin\release\net452\Dapper.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\release\net452\AssassinCore.SqlServer.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\release\net452\AssassinCore.SqlServer.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\release\net452\AssassinCore.SqlServer.AssemblyInfo.cs
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\release\net452\AssassinCore.SqlServer.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\release\net452\AssassinCore.SqlServer.pdb

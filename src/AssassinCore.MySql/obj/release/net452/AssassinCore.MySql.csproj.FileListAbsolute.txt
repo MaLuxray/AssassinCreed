@@ -1,0 +1,11 @@
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\bin\release\net452\AssassinCore.MySql.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\bin\release\net452\AssassinCore.MySql.pdb
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\bin\release\net452\AssassinCore.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\bin\release\net452\Dapper.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\bin\release\net452\MySql.Data.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\bin\release\net452\System.ValueTuple.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\release\net452\AssassinCore.MySql.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\release\net452\AssassinCore.MySql.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\release\net452\AssassinCore.MySql.AssemblyInfo.cs
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\release\net452\AssassinCore.MySql.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\release\net452\AssassinCore.MySql.pdb

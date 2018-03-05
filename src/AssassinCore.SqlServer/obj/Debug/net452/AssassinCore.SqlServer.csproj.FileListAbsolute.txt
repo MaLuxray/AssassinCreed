@@ -1,0 +1,30 @@
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\bin\Debug\net452\AssassinCore.SqlServer.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\bin\Debug\net452\AssassinCore.SqlServer.pdb
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\bin\Debug\net452\AssassinCore.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\bin\Debug\net452\Dapper.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.AssemblyInfo.cs
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.pdb
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.csprojResolveAssemblyReference.cache
+E:\AssassinCreed\AssassinCore.SqlServer\bin\Debug\net452\AssassinCore.SqlServer.dll
+E:\AssassinCreed\AssassinCore.SqlServer\bin\Debug\net452\AssassinCore.SqlServer.pdb
+E:\AssassinCreed\AssassinCore.SqlServer\bin\Debug\net452\AssassinCore.dll
+E:\AssassinCreed\AssassinCore.SqlServer\bin\Debug\net452\Dapper.dll
+E:\AssassinCreed\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.csprojResolveAssemblyReference.cache
+E:\AssassinCreed\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.csproj.CoreCompileInputs.cache
+E:\AssassinCreed\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.AssemblyInfoInputs.cache
+E:\AssassinCreed\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.AssemblyInfo.cs
+E:\AssassinCreed\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.dll
+E:\AssassinCreed\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.pdb
+E:\AssassinCreed\src\AssassinCore.SqlServer\bin\Debug\net452\AssassinCore.SqlServer.dll
+E:\AssassinCreed\src\AssassinCore.SqlServer\bin\Debug\net452\AssassinCore.SqlServer.pdb
+E:\AssassinCreed\src\AssassinCore.SqlServer\bin\Debug\net452\AssassinCore.dll
+E:\AssassinCreed\src\AssassinCore.SqlServer\bin\Debug\net452\Dapper.dll
+E:\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.csprojResolveAssemblyReference.cache
+E:\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.csproj.CoreCompileInputs.cache
+E:\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.AssemblyInfoInputs.cache
+E:\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.AssemblyInfo.cs
+E:\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.dll
+E:\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\net452\AssassinCore.SqlServer.pdb

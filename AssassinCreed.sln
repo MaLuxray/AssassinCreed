@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssassinCore", "src\AssassinCore\AssassinCore.csproj", "{B7A4C10F-CA73-4554-83DA-D3A0712E939C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssassinCore.MySql", "src\AssassinCore.MySql\AssassinCore.MySql.csproj", "{5DB1D786-C76F-4477-8A81-33CD96BC6861}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssassinCore.SqlServer", "src\AssassinCore.SqlServer\AssassinCore.SqlServer.csproj", "{C21C1D35-72DB-44F3-A91B-DDE13B454EC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A918DF78-D17D-42CD-8A15-3FAD42FADA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7A4C10F-CA73-4554-83DA-D3A0712E939C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A4C10F-CA73-4554-83DA-D3A0712E939C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A4C10F-CA73-4554-83DA-D3A0712E939C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A4C10F-CA73-4554-83DA-D3A0712E939C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB1D786-C76F-4477-8A81-33CD96BC6861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB1D786-C76F-4477-8A81-33CD96BC6861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB1D786-C76F-4477-8A81-33CD96BC6861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB1D786-C76F-4477-8A81-33CD96BC6861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21C1D35-72DB-44F3-A91B-DDE13B454EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21C1D35-72DB-44F3-A91B-DDE13B454EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21C1D35-72DB-44F3-A91B-DDE13B454EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21C1D35-72DB-44F3-A91B-DDE13B454EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B7A4C10F-CA73-4554-83DA-D3A0712E939C} = {A918DF78-D17D-42CD-8A15-3FAD42FADA1B}
+		{5DB1D786-C76F-4477-8A81-33CD96BC6861} = {A918DF78-D17D-42CD-8A15-3FAD42FADA1B}
+		{C21C1D35-72DB-44F3-A91B-DDE13B454EC6} = {A918DF78-D17D-42CD-8A15-3FAD42FADA1B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {031B0FE7-8C3A-4E9B-B760-BE787067BE83}
+	EndGlobalSection
+EndGlobal

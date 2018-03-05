@@ -1,0 +1,27 @@
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\bin\Debug\netstandard2.0\AssassinCore.SqlServer.deps.json
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\bin\Debug\netstandard2.0\AssassinCore.SqlServer.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\bin\Debug\netstandard2.0\AssassinCore.SqlServer.pdb
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.csprojResolveAssemblyReference.cache
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.AssemblyInfo.cs
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.pdb
+E:\AssassinCreed\AssassinCore.SqlServer\bin\Debug\netstandard2.0\AssassinCore.SqlServer.deps.json
+E:\AssassinCreed\AssassinCore.SqlServer\bin\Debug\netstandard2.0\AssassinCore.SqlServer.dll
+E:\AssassinCreed\AssassinCore.SqlServer\bin\Debug\netstandard2.0\AssassinCore.SqlServer.pdb
+E:\AssassinCreed\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.csprojResolveAssemblyReference.cache
+E:\AssassinCreed\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.csproj.CoreCompileInputs.cache
+E:\AssassinCreed\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.AssemblyInfoInputs.cache
+E:\AssassinCreed\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.AssemblyInfo.cs
+E:\AssassinCreed\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.dll
+E:\AssassinCreed\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.pdb
+E:\AssassinCreed\src\AssassinCore.SqlServer\bin\Debug\netstandard2.0\AssassinCore.SqlServer.deps.json
+E:\AssassinCreed\src\AssassinCore.SqlServer\bin\Debug\netstandard2.0\AssassinCore.SqlServer.dll
+E:\AssassinCreed\src\AssassinCore.SqlServer\bin\Debug\netstandard2.0\AssassinCore.SqlServer.pdb
+E:\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.csprojResolveAssemblyReference.cache
+E:\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.csproj.CoreCompileInputs.cache
+E:\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.AssemblyInfoInputs.cache
+E:\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.AssemblyInfo.cs
+E:\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.dll
+E:\AssassinCreed\src\AssassinCore.SqlServer\obj\Debug\netstandard2.0\AssassinCore.SqlServer.pdb

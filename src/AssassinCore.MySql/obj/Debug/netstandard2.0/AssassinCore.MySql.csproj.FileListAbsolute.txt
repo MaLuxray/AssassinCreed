@@ -1,0 +1,27 @@
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\bin\Debug\netstandard2.0\AssassinCore.MySql.deps.json
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\bin\Debug\netstandard2.0\AssassinCore.MySql.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\bin\Debug\netstandard2.0\AssassinCore.MySql.pdb
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.csproj.CoreCompileInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.AssemblyInfoInputs.cache
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.AssemblyInfo.cs
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.dll
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.pdb
+F:\Microsoft Visual Studio\AssassinCreed\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.csprojResolveAssemblyReference.cache
+E:\AssassinCreed\AssassinCore.MySql\bin\Debug\netstandard2.0\AssassinCore.MySql.deps.json
+E:\AssassinCreed\AssassinCore.MySql\bin\Debug\netstandard2.0\AssassinCore.MySql.dll
+E:\AssassinCreed\AssassinCore.MySql\bin\Debug\netstandard2.0\AssassinCore.MySql.pdb
+E:\AssassinCreed\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.csprojResolveAssemblyReference.cache
+E:\AssassinCreed\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.csproj.CoreCompileInputs.cache
+E:\AssassinCreed\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.AssemblyInfoInputs.cache
+E:\AssassinCreed\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.AssemblyInfo.cs
+E:\AssassinCreed\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.dll
+E:\AssassinCreed\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.pdb
+E:\AssassinCreed\src\AssassinCore.MySql\bin\Debug\netstandard2.0\AssassinCore.MySql.deps.json
+E:\AssassinCreed\src\AssassinCore.MySql\bin\Debug\netstandard2.0\AssassinCore.MySql.dll
+E:\AssassinCreed\src\AssassinCore.MySql\bin\Debug\netstandard2.0\AssassinCore.MySql.pdb
+E:\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.csprojResolveAssemblyReference.cache
+E:\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.csproj.CoreCompileInputs.cache
+E:\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.AssemblyInfoInputs.cache
+E:\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.AssemblyInfo.cs
+E:\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.dll
+E:\AssassinCreed\src\AssassinCore.MySql\obj\Debug\netstandard2.0\AssassinCore.MySql.pdb
